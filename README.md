@@ -8,8 +8,17 @@ Pasos para correr el programa "arp_spoofing.py":
 4) Ingresa la IP de la computadora objetivo
 
 Programa 2
-El script
+El script pedira la IP del router y podra identificar si tu computadora fue intervenida
 Pasos para correr el script:
+1) Abrir la terminal en linux
+2) Dirijete hasta el directorio donde guardaste arp_spoofing.py
+3) Ejecuta el siguiete comando: python3 arp_spoofing.py
+4) Ingresa la IP de la computadora objetivo
+5) Ahora desde la com putadora objetivo ingresa a la terminal
+6) corre el script de arp_detection.py
+7) Ingresa la ip del router
+
+En los archivos están todas las evidencias del correcto funcionamiento de cada uno de los programas, las del segundo programa tienen un 2 al final de su nombre.
 
 
 
